@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "cat input004.txt | node index.js"
+  },
+  "dependencies": {
+    "@datastructures-js/binary-search-tree": "^2.0.1"
+  }
+}
